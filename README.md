@@ -91,8 +91,7 @@ The demo distinguishes three complementary ideas:
 | `demo/assistant.py` | Loading, retrieval and the DeepSeek API call |
 | `demo/check_setup.py` | Pre-meeting smoke test (one real API call) |
 | `tests/test_demo_assistant.py` | Unit tests (no network) |
-| `docs/OKF_Meeting_Overview.pptx` | 10-slide deck with speaker notes, about 20 minutes: what OKF is |
-| `docs/OKF_Project_Flow.pptx` | 8-slide deck with speaker notes, about 10 minutes: how this project works |
+| `docs/okf.pptx` | Meeting deck (15 slides, speaker notes, about 20 minutes) |
 
 Run the tests with `.venv/bin/python -m pytest -q tests/test_demo_assistant.py`.
 
