@@ -1,0 +1,6 @@
+order_id,order_date,order_status,delivered_on,net_amount
+1001,2026-03-10,delivered,2026-03-15,500
+1002,2026-06-22,delivered,2026-06-26,800
+1003,2026-08-05,refunded,,300
+1004,2026-11-06,delivered,2026-11-10,400
+1005,2026-11-12,shipped,,200

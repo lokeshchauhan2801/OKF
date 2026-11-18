@@ -1,4 +1,3 @@
-# Attested Computation
+# SQL Query
 
-* [Revenue for a fiscal year](revenue-ytd.md) - Sanctioned SQL for annual revenue, bigquery runtime.
-* [Gross margin for a period](gross-margin-period.md) - Sanctioned SQL for gross margin, bigquery runtime.
+* [Revenue for a fiscal year](revenue-ytd.md) - The approved SQL query for yearly revenue.

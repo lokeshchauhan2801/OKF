@@ -1,8 +1,10 @@
+# Acme Retail
+
+Knowledge about Acme Retail's sales database and how revenue is calculated from it with SQL.
+
 # Subdirectories
 
-* [tables](tables/index.md) - BigQuery tables the bundle grounds against.
-* [metrics](metrics/index.md) - Business definitions of Acme Retail's headline numbers.
-* [computations](computations/index.md) - Sanctioned SQL as Attested Computations for each metric.
-* [policies](policies/index.md) - Source-of-truth Finance policy documents.
-* [skills](skills/index.md) - Executor instructions for running Attested Computations.
-* [attesters](attesters/index.md) - Deterministic verification code for computation receipts.
+* [tables](tables/index.md) - The SQL tables and what each column means.
+* [metrics](metrics/index.md) - Business definitions of Acme Retail's numbers.
+* [policies](policies/index.md) - Finance rules, the source of truth.
+* [computations](computations/index.md) - Approved SQL queries for each metric.
